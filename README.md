@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Flame Cerberus 👋
 
-<!--
-**FlameCerberus/FlameCerberus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=FlameCerberus)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate developer specializing in electronic and AI-related projects. Check out my portfolio to see a compilation of my personal and professional projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projects Portfolio
+
+### FlameCerberus
+A portfolio for a compilation of my projects created for personal and professional use during my college years, consisting of electronic and AI-related projects.
+
+[Visit My Portfolio](https://FlameCerberus.github.io)
+
+## 📫 Contact
+- [Website](https://FlameCerberus.github.io)
+- [LinkedIn](https://www.linkedin.com/in/abang-amirulluqman-farhan-abang-kilat-073206226)
+- [Email](mailto:abangamirulluq99@gmail.com)
+
